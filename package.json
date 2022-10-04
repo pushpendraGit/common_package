@@ -1,5 +1,5 @@
 {
-  "name": "common_package",
+  "name": "@pushpendragit/common_package",
   "version": "1.0.0",
   "description": "First NPM package",
   "main": "index.js",

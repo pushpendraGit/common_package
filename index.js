@@ -1,6 +1,6 @@
 const axios = require('axios');
 const getRepos = async ({
-  username = 'myogeshchavan97',
+  username = 'pushpendraGit',
   page = 1,
   per_page = 30
 } = {}) => {
